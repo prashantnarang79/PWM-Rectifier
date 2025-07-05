@@ -106,7 +106,7 @@ IEEE International Conference on Power Electronics, Drives and Energy Systems (P
 
 ## Tools Used
 
-- MATLAB R202x
+- MATLAB R2021a
 - Simulink
 - Power Electronics Toolbox
 - Control System Toolbox
