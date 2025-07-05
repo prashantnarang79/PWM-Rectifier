@@ -1,6 +1,6 @@
 # Matlab Simulation of a PWM-Rectifier
 
-This repository contains a MATLAB/Simulink-based simulation of a PWM-controlled rectifier using a Power Factor Correction (PFC) Boost Converter.
+This repository contains a MATLAB Simulink-based simulation of a PWM-controlled rectifier using a Power Factor Correction (PFC) Boost Converter.
 ---
 
 ## Project Objective
